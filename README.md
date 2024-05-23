@@ -115,7 +115,7 @@ Gravar na variável excesso a quantidade de quilos além do limite
 e na variável multa o valor da multa que João deverá pagar.
 Imprima os dados do programa com as mensagens adequadas.
 
-#### [Exercicio 015](exercicios/015.py)
+#### [Exercicio 15](exercicio15.py)
 
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas
 trabalhadas no mês.
