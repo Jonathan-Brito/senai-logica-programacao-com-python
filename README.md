@@ -4,7 +4,7 @@
 Resolução em Python dos exercícios de Lógica de Programação e Algoritmos da [lista de exercícios da Wiki da Python Brasil](https://wiki.python.org.br/ListaDeExercicios).
 
 ## Conteúdo
-1. [Exercícios de Lógica de Programação em Python](#exercícios-de-lógica-de-programação-em-python)
+1. [Exercícios de Lógica de Programação em Python](#https://github.com/Jonathan-Brito/senai-logica-programacao-com-python)
    1. [Descrição](#descrição)
    2. [Conteúdo](#conteúdo)
    3. [Motivação](#motivação)
@@ -17,7 +17,7 @@ Resolução em Python dos exercícios de Lógica de Programação e Algoritmos d
       4. [Listas](#listas)
 
 ## Motivação
-Estou resolvendo esta lista para disponibilizar as resoluções como material complementar do curso de [Lógica de Programação e Algoritmos com Python](https:/programarcompython).
+Estou resolvendo esta lista para disponibilizar as resoluções como material complementar do curso de [Lógica de Programação e Algoritmos com Python](https://github.com/Jonathan-Brito/senai-logica-programacao-com-python).
 
 ## Olhe também
 "Cópia" desse repositório para as linguagens:
