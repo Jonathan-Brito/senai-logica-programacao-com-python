@@ -31,28 +31,28 @@ Como são resoluções para um curso de Lógica de Programação (nível inicant
 
 ## Enunciados
 ### Estruturas sequenciais
-#### [Exercicio 001](exercicios/001.py)
+#### [Exercicio 01](exercicio01.py)
 
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-#### [Exercicio 002](exercicios/002.py)
+#### [Exercicio 002](exercicio02.py)
 
 Faça um Programa que peça um número e então mostre a mensagem O número
 informado foi [número].
 
-#### [Exercicio 003](exercicios/003.py)
+#### [Exercicio 03](exercicio03.py)
 
 Faça um Programa que peça dois números e imprima a soma.
 
-#### [Exercicio 004](exercicios/004.py)
+#### [Exercicio 04](exercicio04.py)
 
 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
-#### [Exercicio 005](exercicios/005.py)
+#### [Exercicio 05](exercicio05.py)
 
 Faça um Programa que converta metros para centímetros.
 
-#### [Exercicio 006](exercicios/006.py)
+#### [Exercicio 06](exercicio06.py)
 
 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
